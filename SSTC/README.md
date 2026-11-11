@@ -59,3 +59,4 @@ The system features an **external logic interrupter driven by an Arduino** conne
 
 ![Inside the base](images/sstc-inside.jpg)
 [![Watch the video on YouTube](https://img.youtube.com/vi/lJrHBc84bOo/0.jpg)](https://www.youtube.com/watch?v=lJrHBc84bOo)
+[![Watch the video on YouTube](https://img.youtube.com/vi/_6czZzP6PW8/0.jpg)](https://www.youtube.com/watch?v=_6czZzP6PW8)
